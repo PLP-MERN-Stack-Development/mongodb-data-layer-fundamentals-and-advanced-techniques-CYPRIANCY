@@ -1,0 +1,13 @@
+{
+  "name": "plp_bookstore",
+  "version": "1.0.0",
+  "description": "MongoDB Week 1 Assignment using MongoDB Node.js Driver and Atlas",
+  "main": "insert_books.js",
+  "scripts": {
+    "start": "node queries.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^6.0.0"
+  }
+}
